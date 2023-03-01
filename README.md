@@ -2,15 +2,15 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/JoseArjona/count.svg)
 
-Me gusta la idea de construir software que ayude a mejorar la vida de las personas, me encanta ponerle creatividad al diseño por eso considero que soy mejor en: Front-End
+Me gusta la idea de construir software que ayude a mejorar la vida de las personas.
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Desarrollador+Front+-+End+💻;🎮+Casual+Gamer"alt="XD">
 </p>
 
 <div >
-<img align="center" alt="Arj-Stats" height="200em" src="https://github-readme-stats.vercel.app/api?username=JoseArjona&show_icons=true&theme=gotham">
-<img align="center" alt="Arj-Lang" height="200em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArjona&layout=compact&show_icons=true&theme=gotham">
+<img align="center" alt="Arj-Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseArjona&show_icons=true&theme=gotham">
+<img align="center" alt="Arj-Lang" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArjona&layout=compact&show_icons=true&theme=gotham">
 
 </div>
 
