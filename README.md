@@ -1,16 +1,13 @@
 ## Hola 👋, Soy Jose Arjona, Desarrollador Web Mexicano 🇲🇽. 🟩⬜🟥 <img align="center" alt="Arj"  src="https://img.shields.io/github/followers/JoseArjona.svg?style=social&label=Follow&maxAge=2592000m">
 
-![Visitor Count](https://profile-counter.glitch.me/JoseArjona/count.svg)
-
-Me gusta la idea de construir software que ayude a mejorar la vida de las personas.
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&color=94e2d5&size=25&center=true&vCenter=true&lines=Desarrollador+Web+💻;🎮+Casual+Gamer"alt="XD">
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&color=69d400&size=25&center=true&vCenter=true&lines=Desarrollador+Web+💻;🎮+Casual+Gamer"alt="XD">
 </p>
 
 <div >
-<img align="center" alt="Arj-Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseArjona&show_icons=true&theme=catppuccin_mocha">
-<img align="center" alt="Arj-Lang" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArjona&layout=compact&show_icons=true&theme=catppuccin_mocha">
+<img align="center" alt="Arj-Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseArjona&show_icons=true&theme=chartreuse-dark">
+<img align="center" alt="Arj-Lang" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArjona&layout=compact&show_icons=true&theme=chartreuse-dark">
 
 </div>
 
